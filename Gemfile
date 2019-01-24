@@ -1,0 +1,7 @@
+ruby '2.5.1'
+gem 'rspec'
+gem 'google_drive'
+gem 'pry'
+gem 'nokogiri'
+gem 'dotenv'
+gem 'rubocop'
